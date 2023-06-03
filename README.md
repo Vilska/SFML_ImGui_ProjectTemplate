@@ -1,6 +1,6 @@
 # SFML_ImGui_ProjectTemplate
-Template project for SFML projects that use SFML_ImGui_Dock. This template divides the window to two sections (settings, viewport) that allows you for example put settings on the left one and actual rendering on the right one.
-Photo: https://streamable.com/jx5jzc
+Template project for SFML projects that use SFML_ImGui_Dock. This template divides the window to two sections (settings, viewport) that allows you for example put settings on the left one and actual rendering on the right one.<br><br>
+<img src="https://i.imgur.com/NcKHqKO.png" width=60%>
 
 ### Setup
 ```
